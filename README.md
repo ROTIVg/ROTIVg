@@ -13,16 +13,21 @@ Sempre explorando novas ferramentas e aprendendo algo novo.
 
 ## 📊 Estatísticas  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROTIVg&show_icons=true&theme=graywhite)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROTIVg&layout=compact&theme=graywhite)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROTIVg&theme=graywhite)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROTIVg&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROTIVg&layout=compact&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROTIVg&theme=dark)
 
 ---
 
 ## ✅ Status  
 
-![Website](https://img.shields.io/website?url=https://rotivg.dev&style=flat-square)  
-![Maintenance](https://img.shields.io/maintenance/yes/2025?style=flat-square)  
+![Website](https://img.shields.io/website?url=https://rotivg.dev&style=flat-square&color=dark)  
+![Maintenance](https://img.shields.io/maintenance/yes/2025?style=flat-square&color=dark)  
+![GitHub last commit](https://img.shields.io/github/last-commit/ROTIVg/ROTIVg?style=flat-square&color=dark)
+
+---
+
+🔒 *"A segurança não é um produto, é um processo."* — Bruce Schneier![Maintenance](https://img.shields.io/maintenance/yes/2025?style=flat-square)  
 ![GitHub last commit](https://img.shields.io/github/last-commit/ROTIVg/ROTIVg?style=flat-square)  
 
 ---
