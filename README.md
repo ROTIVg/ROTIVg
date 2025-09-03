@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou ROTIVg  
 
-<!--
-**ROTIVg/ROTIVg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Entusiasta de **Cibersegurança** e apaixonado por tecnologia.  
+Sempre explorando novas ferramentas e aprendendo algo novo.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias  
+
+![My Skills](https://skillicons.dev/icons?i=python,linux,bash,git,github,html,css,js,mysql,docker)
+
+---
+
+## 📊 Estatísticas  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROTIVg&show_icons=true&theme=graywhite)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROTIVg&layout=compact&theme=graywhite)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROTIVg&theme=graywhite)  
+
+---
+
+## ✅ Status  
+
+![Website](https://img.shields.io/website?url=https://rotivg.dev&style=flat-square)  
+![Maintenance](https://img.shields.io/maintenance/yes/2025?style=flat-square)  
+![GitHub last commit](https://img.shields.io/github/last-commit/ROTIVg/ROTIVg?style=flat-square)  
+
+---
+
+🔒 *"A segurança não é um produto, é um processo."* — Bruce Schneier
