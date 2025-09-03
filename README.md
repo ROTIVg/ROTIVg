@@ -21,7 +21,6 @@ Sempre explorando novas ferramentas e aprendendo algo novo.
 ## ✅ Status  
 
 ![Website](https://img.shields.io/website?url=https://rotivdevworkcenter.vercel.app/&style=flat-square&color=dark)  
-![Maintenance](https://img.shields.io/maintenance/yes/2025?style=flat-square&color=dark)  
 ![GitHub last commit](https://img.shields.io/github/last-commit/ROTIVg/ROTIVg?style=flat-square&color=dark)
 
 ---
