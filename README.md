@@ -7,7 +7,7 @@ Sempre explorando novas ferramentas e aprendendo algo novo.
 
 ## 🛠️ Tecnologias  
 
-![My Skills](https://skillicons.dev/icons?i=python,linux,bash,git,github,c,cpp,nodejs,mysql,docker)
+![My Skills](https://skillicons.dev/icons?i=python,bash,git,github,c,cpp,nodejs,ts,mysql,docker)
 
 ---
 
