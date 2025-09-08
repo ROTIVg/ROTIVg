@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou ROTIVg  
 
-🔐 Entusiasta de **Cibersegurança** e apaixonado por tecnologia.  
-Sempre explorando novas ferramentas e aprendendo algo novo.  
+🔐 Entusiasta de **Cibersegurança**   
 
 ---
 
