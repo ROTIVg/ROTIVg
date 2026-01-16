@@ -20,6 +20,4 @@
 ![Website](https://img.shields.io/website?url=https://rotivdevworkcenter.vercel.app/&style=flat-square&color=dark)  
 ![GitHub last commit](https://img.shields.io/github/last-commit/ROTIVg/ROTIVg?style=flat-square&color=dark)
 
----
 
-🔒 *"A segurança não é um produto, é um processo."* — Bruce Schneier
