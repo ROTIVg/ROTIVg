@@ -1,5 +1,3 @@
-# 👋 Olá, eu sou ROTIVg  
-
 🔐 Entusiasta de **Cibersegurança**   
 
 ---
