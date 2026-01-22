@@ -10,8 +10,15 @@
 
 ##  Estatísticas  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROTIVg&show_icons=true&theme=dark&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROTIVg&layout=compact&theme=dark&cache_seconds=1800)
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=ROTIVg&show_icons=true&theme=dark&cache_seconds=1800"
+  />
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROTIVg&layout=compact&langs_count=6&theme=dark"
+/>
 
 ---
 
