@@ -53,14 +53,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROTIVg&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
-<!--
-Cobra animada (opcional): depois de adicionar o workflow .github/workflows/snake.yml
-e rodar ele uma vez em Actions, descomente o bloco abaixo.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ROTIVg/ROTIVg/output/snake.svg" alt="Snake" width="100%" />
 </p>
--->
 
 ---
 
