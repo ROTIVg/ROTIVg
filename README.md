@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rotivdevworkcenter.vercel.app/"><img src="https://img.shields.io/badge/portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=000000" alt="Portfólio" /></a>
+  <a href="https://rotivg.github.io/ROTIVg/not-yet.html"><img src="https://img.shields.io/badge/portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=000000" alt="Portfólio" /></a>
   <a href="https://github.com/ROTIVg"><img src="https://img.shields.io/badge/github-ROTIVg-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" alt="GitHub" /></a>
   <img src="https://komarev.com/ghpvc/?username=ROTIVg&label=visitas&color=000000&style=for-the-badge&labelColor=000000" alt="Visitas" />
 </p>
