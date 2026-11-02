@@ -18,7 +18,7 @@
   <img src="https://tech-stack.wontory.dev/api/badge?slug=python&text=Python&highlight=true&textColor=ffffff&iconColor=ffffff&bgColor=000000" alt="Python" />
   <img src="https://tech-stack.wontory.dev/api/badge?slug=gnubash&text=Bash&highlight=true&textColor=ffffff&iconColor=ffffff&bgColor=000000" alt="Bash" />
   <img src="https://tech-stack.wontory.dev/api/badge?slug=c&text=C&highlight=true&textColor=ffffff&iconColor=ffffff&bgColor=000000" alt="C" />
-  <img src="https://tech-stack.wontory.dev/api/badge?slug=cpp&text=C%2B%2B&highlight=true&textColor=ffffff&iconColor=ffffff&bgColor=000000" alt="C++" />
+  <img src="https://tech-stack.wontory.dev/api/badge?slug=cplusplus&text=C%2B%2B&highlight=true&textColor=ffffff&iconColor=ffffff&bgColor=000000" alt="C++" />
   <img src="https://tech-stack.wontory.dev/api/badge?slug=typescript&text=TypeScript&highlight=true&textColor=ffffff&iconColor=ffffff&bgColor=000000" alt="TypeScript" />
   <img src="https://tech-stack.wontory.dev/api/badge?slug=nodedotjs&text=Node.js&highlight=true&textColor=ffffff&iconColor=ffffff&bgColor=000000" alt="Node.js" />
   <img src="https://tech-stack.wontory.dev/api/badge?slug=rust&text=Rust&highlight=true&textColor=ffffff&iconColor=ffffff&bgColor=000000" alt="Rust" />
