@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Not built yet | ROTIVg</title>
+<style>
+  :root {
+    color-scheme: dark;
+    --bg: #000;
+    --panel: #0d0d0d;
+    --border: #2a2a2a;
+    --fg: #fff;
+    --dim: #8b949e;
+    box-sizing: border-box;
+    padding-top: env(safe-area-inset-top, 0px);
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) { --bg:#000; --panel:#0d0d0d; --border:#2a2a2a; --fg:#fff; --dim:#8b949e; color-scheme: dark; }
+  }
+  @media (prefers-color-scheme: light) {
+    :root:not([data-theme="dark"]) { --bg:#fff; --panel:#f3f3f3; --border:#d0d0d0; --fg:#000; --dim:#5a5a5a; color-scheme: light; }
+  }
+  :root[data-theme="dark"]  { --bg:#000; --panel:#0d0d0d; --border:#2a2a2a; --fg:#fff; --dim:#8b949e; }
+  :root[data-theme="light"] { --bg:#fff; --panel:#f3f3f3; --border:#d0d0d0; --fg:#000; --dim:#5a5a5a; }
+
+  html, body { height: 100%; margin: 0; }
+  body {
+    background: var(--bg);
+    color: var(--fg);
+    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, "Courier New", monospace;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+    box-sizing: border-box;
+  }
+  .win {
+    width: 100%;
+    max-width: 640px;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+  }
+  .bar {
+    background: var(--panel);
+    border-bottom: 1px solid var(--border);
+    padding: 10px 14px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .dot { width: 11px; height: 11px; border-radius: 50%; background: var(--fg); }
+  .dot:nth-child(2) { opacity: .5; }
+  .dot:nth-child(3) { opacity: .25; }
+  .title { flex: 1; text-align: center; color: var(--dim); font-size: 12px; margin-right: 45px; }
+  .body { padding: 22px 20px 26px; font-size: 15px; line-height: 1.8; }
+  .prompt { color: var(--dim); }
+  .line { white-space: pre; overflow: hidden; width: 0; animation: type 1s steps(var(--n), end) forwards; animation-delay: var(--d); }
+  .out { opacity: 0; animation: show 0s forwards; animation-delay: var(--d); }
+  .big { font-size: clamp(20px, 5vw, 28px); font-weight: bold; margin: 6px 0 2px; }
+  .cursor { display: inline-block; width: .6em; height: 1.1em; background: var(--fg); vertical-align: text-bottom; animation: blink 1s steps(1) infinite; }
+  .links { margin-top: 22px; display: flex; flex-wrap: wrap; gap: 10px; opacity: 0; animation: show 0s forwards; animation-delay: 5.2s; }
+  .links a {
+    color: var(--fg);
+    text-decoration: none;
+    border: 1px solid var(--border);
+    padding: 7px 14px;
+    border-radius: 6px;
+    font-size: 13px;
+  }
+  .links a:hover, .links a:focus-visible { background: var(--fg); color: var(--bg); outline: none; }
+  @keyframes type { to { width: calc(var(--n) * 1ch); } }
+  @keyframes show { to { opacity: 1; } }
+  @keyframes blink { 50% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) {
+    .line { animation: none; width: auto; }
+    .out, .links { animation: none; opacity: 1; }
+    .cursor { animation: none; }
+  }
+</style>
+</head>
+<body>
+  <main class="win">
+    <div class="bar">
+      <span class="dot"></span><span class="dot"></span><span class="dot"></span>
+      <span class="title">rotivg@github: ~</span>
+    </div>
+    <div class="body">
+      <div><span class="prompt">rotivg@github:~$ </span><span class="line" style="--n:9;--d:.4s;display:inline-block;vertical-align:bottom">open link</span></div>
+      <div class="out" style="--d:1.5s"><span class="prompt">bash: page not found</span></div>
+      <div><span class="prompt">rotivg@github:~$ </span><span class="line" style="--n:14;--d:2.2s;display:inline-block;vertical-align:bottom">cat status.txt</span></div>
+      <div class="out big" style="--d:3.4s">I haven’t done this yet.</div>
+      <div class="out" style="--d:4s"><span class="prompt">It’s on the list. Check back soon.</span></div>
+      <div class="out" style="--d:4.6s"><span class="prompt">rotivg@github:~$ </span><span class="cursor"></span></div>
+      <nav class="links">
+        <a href="https://rotivdevworkcenter.vercel.app/">back to portfolio</a>
+        <a href="https://github.com/ROTIVg">github</a>
+      </nav>
+    </div>
+  </main>
+</body>
+</html>
