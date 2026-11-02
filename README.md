@@ -55,7 +55,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ROTIVg&show_icons=true&border_color=30363d&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&ring_color=ffffff&cache_seconds=1800" alt="Stats" />
-  <a href="https://rotivg.github.io/ROTIVg/not-yet.html" alt="Top Languages" />
+  <a href="https://rotivg.github.io/ROTIVg/not-yet.html" alt="Top Languages>
 </p>
 
 <p align="center">
