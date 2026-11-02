@@ -1,3 +1,4 @@
+ 
 <p align="center">
   <img src="./assets/terminal.svg" alt="rotivg@github: ~" width="100%" />
 </p>
@@ -21,6 +22,15 @@
   <img src="https://tech-stack.wontory.dev/api/badge?slug=cplusplus&text=C%2B%2B&highlight=true&textColor=ffffff&iconColor=ffffff&bgColor=000000" alt="C++" />
   <img src="https://tech-stack.wontory.dev/api/badge?slug=typescript&text=TypeScript&highlight=true&textColor=ffffff&iconColor=ffffff&bgColor=000000" alt="TypeScript" />
   <img src="https://tech-stack.wontory.dev/api/badge?slug=nodedotjs&text=Node.js&highlight=true&textColor=ffffff&iconColor=ffffff&bgColor=000000" alt="Node.js" />
+  <img src="https://tech-stack.wontory.dev/api/badge?slug=rust&text=Rust&highlight=true&textColor=ffffff&iconColor=ffffff&bgColor=000000" alt="Rust" />
+  <img src="https://tech-stack.wontory.dev/api/badge?slug=ruby&text=Ruby&highlight=true&textColor=ffffff&iconColor=ffffff&bgColor=000000" alt="Ruby" />
+  <img src="https://tech-stack.wontory.dev/api/badge?slug=swift&text=Swift&highlight=true&textColor=ffffff&iconColor=ffffff&bgColor=000000" alt="Swift" />
+</p>
+
+**frameworks/**
+
+<p>
+  <img src="https://tech-stack.wontory.dev/api/badge?slug=rubyonrails&text=Ruby%20on%20Rails&highlight=true&textColor=ffffff&iconColor=ffffff&bgColor=000000" alt="Ruby on Rails" />
 </p>
 
 **ferramentas/**
@@ -30,6 +40,9 @@
   <img src="https://tech-stack.wontory.dev/api/badge?slug=github&text=GitHub&highlight=true&textColor=ffffff&iconColor=ffffff&bgColor=000000" alt="GitHub" />
   <img src="https://tech-stack.wontory.dev/api/badge?slug=docker&text=Docker&highlight=true&textColor=ffffff&iconColor=ffffff&bgColor=000000" alt="Docker" />
   <img src="https://tech-stack.wontory.dev/api/badge?slug=mysql&text=MySQL&highlight=true&textColor=ffffff&iconColor=ffffff&bgColor=000000" alt="MySQL" />
+  <img src="https://tech-stack.wontory.dev/api/badge?slug=visualstudio&text=Visual%20Studio&highlight=true&textColor=ffffff&iconColor=ffffff&bgColor=000000" alt="Visual Studio" />
+  <img src="https://tech-stack.wontory.dev/api/badge?slug=visualstudiocode&text=Visual%20Studio%20Code&highlight=true&textColor=ffffff&iconColor=ffffff&bgColor=000000" alt="Visual Studio Code" />
+  <img src="https://tech-stack.wontory.dev/api/badge?slug=vim&text=Vim&highlight=true&textColor=ffffff&iconColor=ffffff&bgColor=000000" alt="Vim" />
 </p>
 
 ---
@@ -38,7 +51,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ROTIVg&show_icons=true&border_color=30363d&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&ring_color=ffffff&cache_seconds=1800" alt="Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROTIVg&layout=compact&langs_count=6&border_color=30363d&bg_color=000000&title_color=ffffff&text_color=c9d1d9&cache_seconds=1800" alt="Top Langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROTIVg&layout=compact&langs_count=6&border_color=30363d&bg_color=000000&title_color=ffffff&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
