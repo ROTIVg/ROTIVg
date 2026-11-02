@@ -50,11 +50,7 @@
 ## `$ git log --graph`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROTIVg&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ROTIVg/ROTIVg/output/snake.svg" alt="Snake" width="100%" />
+  <img src="./assets/snake.svg" alt="Snake" width="100%" />
 </p>
 
 ---
